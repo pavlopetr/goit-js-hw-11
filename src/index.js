@@ -1,5 +1,5 @@
 import './css/styles.css';
-import { ServerSequest } from './JS/fetchGallery';
+import { ServerSequest } from './js/fetchGallery';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 import photoCard from './parsel/photoCard.hbs';
 import SimpleLightbox from 'simplelightbox';
